@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anushree262
 - 👀 I’m interested to know about coding world.
-- 🌱 I’m currently learning machine learning in python and c++.
+- 🌱i have a strong interest in web devlopment and having skills in HTML,CSS and javascript.
   
 
 <!---
